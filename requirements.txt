@@ -5,7 +5,7 @@ cffi==1.11.5
 chardet==3.0.4
 cryptography==2.2.2
 defusedxml==0.5.0
-Django==2.0.3
+Django==2.2.10
 django-allauth==0.35.0
 django-nexmo==2.0.0a1
 django-phonenumber-field==2.0.0
