@@ -10,7 +10,7 @@ django-allauth==0.35.0
 django-nexmo==2.0.0a1
 django-phonenumber-field==2.0.0
 django-rest-auth==0.9.3
-djangorestframework==3.7.7
+djangorestframework==3.11.2
 djangorestframework-jsonapi==2.4.0
 djangorestframework-jwt==1.11.0
 idna==2.6
